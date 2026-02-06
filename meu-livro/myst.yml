@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b9251ab4-be46-4ef2-8dd8-bb865bf30ed2
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/guiheol/hello-world
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
